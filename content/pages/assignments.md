@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains two problem sets and a take home final exam.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
